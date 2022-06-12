@@ -6,3 +6,4 @@ ip=st.text_input('enter your message')
 op=model.predict([ip])
 if st.botton('Predict'):
   st.title(Op[0])
+    
